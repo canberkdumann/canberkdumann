@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canberkdumann&label=Profile%20views&color=0e75b6&style=flat" alt="canberkdumann" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/canberkdumann](https://github.com/canberkdumann)
+- 👨‍💻 All of my projects are available in [https://github.com/canberkdumann](https://github.com/canberkdumann)
 
 - 💬 Ask me about **Backend Technologies such as Java, Spring, Spring Boot, Hibernate, SQL, Microservice Technologies(Docker, Kubernetes, Kafka, RabbitMQ etc...) and Android Development with Java and Kotlin**
 
