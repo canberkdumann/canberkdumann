@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Cemil Canberk Duman</h1>
-<h3 align="center">A passionate and disciplined Software Developer</h3>
+<h3 align="center">A passionate and disciplined Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canberkdumann&label=Profile%20views&color=0e75b6&style=flat" alt="canberkdumann" /> </p>
