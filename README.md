@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available in [https://github.com/canberkdumann](https://github.com/canberkdumann)
 
-- 💬 Ask me about **Backend Technologies such as Java, Spring, Spring Boot, Hibernate, SQL, Microservice Technologies(Docker, Kubernetes, Kafka, RabbitMQ etc...) and Android Development with Java and Kotlin**
+- 💬 Ask me about **Backend Technologies such as Python, Java, Spring, Spring Boot, Hibernate, SQL, Microservice Technologies(Docker, Kubernetes, Kafka, RabbitMQ etc...) and Android Development with Java and Kotlin**
 
 - 📫 How to reach me **canberkduman1998@gmail.com**
 
