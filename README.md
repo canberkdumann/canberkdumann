@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Cemil Canberk Duman</h1>
+<h1 align="center">Hi, I'm Cemil Canberk Duman</h1>
 <h3 align="center">A passionate and disciplined Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
@@ -7,7 +7,77 @@
 
 - 👨‍💻 All of my projects are available in [https://github.com/canberkdumann](https://github.com/canberkdumann)
 
-- 💬 Ask me about **Backend Technologies such as Python, Java, Spring, Spring Boot, Hibernate, SQL, Microservice Technologies(Docker, Kubernetes, Kafka, RabbitMQ etc...) and Android Development with Java and Kotlin**
+💬 **Feel free to ask me about:**
+
+*   Designing and implementing scalable backend systems (Spring Boot, Java, Python).
+
+*   Architecting robust databases and writing complex SQL queries for data analysis.
+
+*   Developing native mobile applications.
+
+*   Building advanced data models, dynamic performance reports and custom extensions in Qlik Sense.
+
+*   Setting up messaging brokers and containerized environments.
+
+ 
+
+Here is a breakdown of my technical stack and core competencies:
+
+ 
+
+### 💻 Tech Stack & Expertise
+
+ 
+
+**Backend & Core Frameworks**
+
+*   Java, Kotlin
+*   Python
+*   C# (ASP.NET)
+*   Spring, Spring Boot
+*   Hibernate
+
+ 
+
+**Business Intelligence & Data Analytics**
+
+*   Qlik Sense
+*   SAP BO
+
+ 
+
+**Databases**
+
+*   SQL
+*   NoSQL
+
+ 
+
+**DevOps, Microservices & Infrastructure**
+
+*   Docker, Kubernetes
+*   Apache Kafka, RabbitMQ
+*   Redis
+*   Linux
+
+ 
+
+**Frontend Technologies**
+
+*   HTML, CSS, JavaScript
+
+ 
+
+**API & Testing Tools**
+
+*   Postman, SOAP UI
+*   JUnit
+
+ 
+
+**Version Control**
+
+*   GIT
 
 - 📫 How to reach me **canberkduman1998@gmail.com**
 
