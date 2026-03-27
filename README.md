@@ -4,15 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canberkdumann&label=Profile%20views&color=0e75b6&style=flat" alt="canberkdumann" /> </p>
 
-- 👨‍💻 All of my projects are available in [https://github.com/canberkdumann](https://github.com/canberkdumann)
+👨‍💻 All of my projects are available in [https://github.com/canberkdumann](https://github.com/canberkdumann)
 
 💬 **Feel free to ask me about:**
 
-* Designing and implementing scalable backend systems (Spring Boot, Java, Python).
-* Architecting robust databases and writing complex SQL queries for data analysis.
-* Developing native mobile applications.
-* Building advanced data models, dynamic performance reports and custom extensions in Qlik Sense.
-* Setting up messaging brokers and containerized environments.
+• **Scalable Architectures:** Designing and implementing high-availability backend systems focused on performance and reliability.
+
+• **Data-Driven Insights:** Transforming complex datasets into strategic business value through advanced modeling and analytical reporting.
+
+• **Native Mobile Solutions:** Building high-performance mobile applications with a focus on seamless user experience and technical efficiency.
+
+• **Infrastructure & Messaging:** Streamlining development workflows with containerized environments and resilient distributed messaging systems.
+
+• **Database Excellence:** Architecting robust data structures and optimizing complex queries for deep technical analysis.
 
  
 
@@ -47,7 +51,7 @@
 
  
 
-- 📫 How to reach me **canberkduman1998@gmail.com**
+📫 How to reach me **canberkduman1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
